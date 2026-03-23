@@ -1,10 +1,33 @@
 # Synergy Stacks
 
-5 multi-vertical revenue stack playbooks optimized for compounding returns
+**5 multi-vertical revenue stack playbooks optimized for compounding returns**
 
-## Tech
+**Category:** `business-strategy` / `synergy-method`
 
-python
+## Tech Stack
+
+- python
+
+## Key Features
+
+- 5 multi-vertical revenue stack playbooks optimized for compounding returns
+
+## Timeline
+
+- **2025-03-01** to **2026-03-22** (high intensity)
+
+## AI Tools Used
+
+claude, cursor
+
+## Tags
+
+printmaxx
 
 ---
-*Part of [PRINTMAXX](https://github.com/fnsmdehip/printmaxx-starter-kit) | [DEVPRINT](https://github.com/fnsmdehip/devprint)*
+
+## Printmaxx Revenue Method
+
+One of 37 revenue verticals managed by the [Printmaxx](https://github.com/fnsmdehip/printmaxx-starter-kit) autonomous business system. Scored by Capital Genesis on 7 dimensions.
+
+[Full Portfolio](https://devprint-portfolio.surge.sh) | [System Architecture](https://builders-portfolio.surge.sh)
